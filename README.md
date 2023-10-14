@@ -12,49 +12,45 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 
 ## Installation
 
-### Prérequis
+> Consultez le [wiki](https://github.com/Luckyluka17/MultiMod/wiki) si vous souhaitez un tutoriel complet sur l'installation de l'outil, ou si vous recontrez des difficultés.
 
-- [Git](https://git-scm.com/downloads) - `sudo apt install git` (Linux)
-- [Python3](https://www.python.org/downloads/) - `sudo apt install python3` (Linux)
-- [Pip3]() (_Seulement pour Linux_) - `sudo apt install python3-pip` (Linux)
+### Windows
+[Cliquez ici]() pour télécharger la dernière version.
 
-### Commande
-
+### Linux
 ```sh
-git clone https://github.com/Luckyluka17/MultiMod.git
+# Télécharger les paquets prérequis
+sudo apt install python3
+sudo apt install python3-pip
+
+# Si vous êtes sur ChromeOS, installez ce paquet
+sudo apt install python3-tk
+
+# Créer un dossier pour le logiciel
+mkdir MultiMod
 cd MultiMod
-python3 -u multimod.py
+
+# Télécharger et installer les modules prérequis
+wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/multimod.py
+python3 -m pip install -r requirements.txt
 ```
-(Si vous êtes sur Windows, utilisez la commande `python -u multimod.py`)
+
+> Utilisez la commande `python3 -u multimod.py` pour lancer le logiciel
 
 ## Fonctionnalités disponibles
 
-- Téléchargement des clés/firmwares
-- Téléchargement des cheats et des mods
+- Téléchargement des ~~clés/~~ firmwares
+- Téléchargement de cheats et de mods
 - Gestion des cheats et des mods
 
-## License
+## MIT License
 ```
-MIT License
+Copyright (c) 2023 Luckyluka17
 
-Copyright (c) 2023 Luka
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
