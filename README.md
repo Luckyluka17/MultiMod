@@ -1,6 +1,6 @@
 <h1 align="center"><img src="assets/img/logo.png" width="160px"><br/>MultiMod - Mod manager for Yuzu</h1>
 
-**Langue :** [🇫🇷 Français]() - [🇬🇧 English]()
+**Langue :** [🇫🇷 Français](https://github.com/Luckyluka17/MultiMod/blob/main/README.md) - [🇬🇧 English](https://github.com/Luckyluka17/MultiMod/blob/main/README_EN.md)
 
 
 MultiMod est un outil permettant d'installer et de gérer des mods et des cheats. Ce logiciel remplace [YuzuCheatsManager](https://github.com/Luckyluka17/YuzuCheatsManager), qui permet uniquement de télécharger et d'installer des cheats. Il fonctionne **uniquement avec des dépôts Github**. 
@@ -15,7 +15,7 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 > Consultez le [wiki](https://github.com/Luckyluka17/MultiMod/wiki) si vous souhaitez un tutoriel complet sur l'installation de l'outil, ou si vous recontrez des difficultés.
 
 ### Windows
-[Cliquez ici]() pour télécharger la dernière version.
+[Cliquez ici](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.exe) pour télécharger la dernière version.
 
 ### Linux
 ```sh
