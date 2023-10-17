@@ -32,6 +32,7 @@ cd MultiMod
 
 # Télécharger et installer les modules prérequis
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/multimod.py
+wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/requirements.txt
 python3 -m pip install -r requirements.txt
 ```
 
