@@ -15,15 +15,13 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 > Consultez le [wiki](https://github.com/Luckyluka17/MultiMod/wiki) si vous souhaitez un tutoriel complet sur l'installation de l'outil, ou si vous recontrez des difficultés.
 
 ### Windows
-[Cliquez ici](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.exe) pour télécharger la dernière version.
+[Cliquez ici](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.zip) pour télécharger la dernière version.
 
 ### Linux
 ```sh
 # Télécharger les paquets prérequis
 sudo apt install python3
 sudo apt install python3-pip
-
-# Si vous êtes sur ChromeOS, installez ce paquet
 sudo apt install python3-tk
 
 # Créer un dossier pour le logiciel
@@ -33,7 +31,9 @@ cd MultiMod
 # Télécharger et installer les modules prérequis
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/multimod.py
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/requirements.txt
+wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/theme_installer.py
 python3 -m pip install -r requirements.txt
+python3 -u theme_installer.py native
 ```
 
 > Utilisez la commande `python3 -u multimod.py` pour lancer le logiciel
@@ -43,6 +43,17 @@ python3 -m pip install -r requirements.txt
 - Téléchargement des ~~clés/~~ firmwares
 - Téléchargement de cheats et de mods
 - Gestion des cheats et des mods
+
+## Thèmes
+
+### Thèmes disponibles
+- native (Thème par défaut)
+
+### Installer un thème
+```sh
+python3 -u theme_installer.py [nom du thème]
+```
+> Remplacez **[nom du thème]** par le nom du thème que le script doit installer.
 
 ## MIT License
 ```
