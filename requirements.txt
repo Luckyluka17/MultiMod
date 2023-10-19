@@ -3,3 +3,4 @@ colorama==0.4.3
 pywebview==4.3.3
 Requests==2.31.0
 wget==3.2
+Pillow==9.5.0
