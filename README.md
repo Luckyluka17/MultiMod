@@ -28,11 +28,13 @@ sudo apt install python3-tk
 mkdir MultiMod
 cd MultiMod
 
-# Télécharger et installer les modules prérequis
+# Télécharger et installer les fichiers requis
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/multimod.py
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/requirements.txt
 wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/theme_installer.py
 python3 -m pip install -r requirements.txt
+
+# Installer le thème par défaut
 python3 -u theme_installer.py native
 ```
 
