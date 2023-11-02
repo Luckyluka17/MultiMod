@@ -12,10 +12,12 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 
 ## Installation
 
-> Consultez le [wiki](https://github.com/Luckyluka17/MultiMod/wiki) si vous souhaitez un tutoriel complet sur l'installation de l'outil, ou si vous recontrez des difficultés.
+>  **👉 Aide complémentaire :** Consultez le [wiki](https://github.com/Luckyluka17/MultiMod/wiki) si vous souhaitez un tutoriel complet sur l'installation de l'outil, ou si vous recontrez des difficultés.
 
 ### Windows
 [Cliquez ici](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.zip) pour télécharger la dernière version.
+
+> **👉 Bon à savoir :** le fichier zip contient le thème _native_ par défaut. De plus, si vous souhaitez installer un thème, vous devez installer Python 3. 
 
 ### Linux
 ```sh
@@ -40,13 +42,18 @@ python3 -u theme_installer.py native
 
 > Utilisez la commande `python3 -u multimod.py` pour lancer le logiciel
 
-## Fonctionnalités disponibles
+## Sources
 
-- Téléchargement des ~~clés/~~ firmwares
-- Téléchargement de cheats et de mods
-- Gestion des cheats et des mods
+- Cheats
+    - [switch-cheat](https://github.com/ibnux/switch-cheat) ([@ibnux](https://github.com/ibnux))
+- Mods
+    - [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) ([@yuzu-emu](https://github.com/yuzu-emu))
+- Firmwares/keys
+    - [NX_Firmware](https://github.com/THZoria/NX_Firmware) ([@THZoria](https://github.com/THZoria))
 
 ## Thèmes
+
+> **👉 Important :** Python 3 est nécessaire pour l'exécution du script.
 
 ### Thèmes disponibles
 - native (Thème par défaut)
@@ -57,7 +64,7 @@ python3 -u theme_installer.py [nom du thème]
 ```
 > Remplacez **[nom du thème]** par le nom du thème que le script doit installer.
 
-## MIT License
+## License ![Type de license](https://img.shields.io/badge/type-MIT-blue)
 ```
 Copyright (c) 2023 Luckyluka17
 
