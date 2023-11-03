@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/img/logo.png" width="160px"><br/>MultiMod - Mod manager for Yuzu</h1>
+<h1 align="center"><img src="assets/img/logo.png" width="160px"><br/>MultiMod - Mods manager for Yuzu</h1>
 
 **Langue :** [🇫🇷 Français](https://github.com/Luckyluka17/MultiMod/blob/main/README.md) - [🇬🇧 English](https://github.com/Luckyluka17/MultiMod/blob/main/README_EN.md)
 
