@@ -5,3 +5,4 @@ yuzu_db.json
 .dev/
 temp/
 scraper.py
+settings.json
