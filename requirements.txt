@@ -1,6 +1,5 @@
 beautifulsoup4==4.12.2
 colorama==0.4.6
-Pillow==9.5.0
 pywebview==4.3.3
 Requests==2.31.0
 wget==3.2
