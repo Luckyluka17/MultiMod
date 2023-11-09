@@ -6,3 +6,4 @@ yuzu_db.json
 temp/
 scraper.py
 settings.json
+build/
