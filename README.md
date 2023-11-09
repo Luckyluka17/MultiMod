@@ -20,23 +20,17 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 > **👉 Bon à savoir :** le fichier zip contient le thème _native_ par défaut. De plus, si vous souhaitez installer un thème, vous devez installer Python 3. 
 
 ### Linux
+
+> **👉 Prérequis :** Vous devez posséder python3 (généralement préinstallé) et git sur votre machine. 
+
 ```sh
-# Télécharger les paquets prérequis
-sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-tk
 
-# Créer un dossier pour le logiciel
-mkdir MultiMod
+git clone https://github.com/Luckyluka17/MultiMod.git
 cd MultiMod
-
-# Télécharger et installer les fichiers requis
-wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/multimod.py
-wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/requirements.txt
-wget https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/theme_installer.py
 python3 -m pip install -r requirements.txt
 
-# Installer le thème par défaut
 python3 -u theme_installer.py native
 ```
 
