@@ -1,0 +1,46 @@
+ion-icon {
+    vertical-align: middle;
+    margin-bottom: 2px;
+}
+
+#header {
+    background-color: #f8f9fa;
+    color: black;
+}
+
+#features {
+    color: white;
+    background-color: rgb(77, 76, 76);
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+}
+
+.feature {
+    margin-right: 45px;
+    border-radius: 5px;
+    color: white;
+    outline: rgb(77, 76, 76) solid 10px;
+    background-color: rgb(77, 76, 76);
+    transition: all 0.3s ease-in-out;
+}
+
+.feature:hover {
+    transform: translateY(-7px) rotate(-3deg);
+    background-color: white;
+    color: black;
+    outline: white solid 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.feature ion-icon {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.card {
+    margin-right: 20px;
+}
