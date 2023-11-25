@@ -1,0 +1,2 @@
+gir clone https://github.com/Luckyluka17/MultiMod.git
+cd MultiMod
