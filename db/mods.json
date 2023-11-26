@@ -1,0 +1,33 @@
+{
+    "01006F8002326000": {
+        "32:9 Super Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Animal%20Crossing:%20New%20Horizons/2.0.5/01006F8002326000/32.9%20Super%20Ultrawide.zip",
+        "21:9 Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Animal%20Crossing:%20New%20Horizons/2.0.5/01006F8002326000/21.9%20Ultrawide.zip",
+        "16:10 Aspect Ratio": "https://github.com/victoria4dx/switch-mods/blob/main/Animal%20Crossing:%20New%20Horizons/2.0.5/01006F8002326000/16.10%20Aspect%20Ratio.zip"
+    },
+    "01009BF0072D4000": {
+        "32:9 Super Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Captain%20Toad:%20Treasure%20Tracker/1.3.0/01009BF0072D4000/32.9%20Super%20Ultrawide.zip",
+        "21:9 Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Captain%20Toad:%20Treasure%20Tracker/1.3.0/01009BF0072D4000/21.9%20Ultrawide.zip",
+        "4:3 Aspect Ratio": "https://github.com/victoria4dx/switch-mods/raw/main/Captain%20Toad:%20Treasure%20Tracker/1.3.0/01009BF0072D4000/4.3%20Aspect%20Ratio.zip",
+        "Disable DOF": "https://cdn.discordapp.com/attachments/356187763139280896/726756195192537128/Disable_DOF.zip",
+        "Disable Screen Cursor Icon": "https://cdn.discordapp.com/attachments/356187763139280896/726756199281852506/Disable_On_Screen_Cursor.zip",
+        "Force Max Resolution": "https://cdn.discordapp.com/attachments/356187763139280896/726756203224367114/Force_Max_Resolution.zip"
+    },
+    "0100D1B006744000": {
+        "60 FPS": "https://github.com/yuzuMods/yuzuMods/raw/master/mods/crash-bandicoot-n-sane-trilogy/60FPS.zip",
+        "1920x1080": "https://github.com/yuzuMods/yuzuMods/raw/master/mods/crash-bandicoot-n-sane-trilogy/1920x1080.zip"
+    },
+    "0100F9F00C696000": {
+        "60 FPS": "https://cdn.discordapp.com/attachments/207547103726010368/704783542638608394/CTRNF_60fps.zip",
+        "Unlock Everything": "https://cdn.discordapp.com/attachments/495758692495523854/902304724555014184/CTRNF_UnlockEverything.zip"
+    },
+    "0100C1F0051B6000": {
+        "32:9 Super Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Donkey%20Kong:%20Tropical%20Freeze/1.0.2/0100C1F0051B6000/32.9%20Super%20Ultrawide.zip",
+        "21:9 Ultrawide": "https://github.com/victoria4dx/switch-mods/raw/main/Donkey%20Kong:%20Tropical%20Freeze/1.0.2/0100C1F0051B6000/21.9%20Ultrawide.zip",
+        "4K Resolution": "https://github.com/theboy181/switch-ptchtxt-mods/raw/main/Donkey%20Kong%20Country:%20Tropical%20Freeze/%5B0100C1F0051B6000%5D/1.0.0/4K-2K.rar"
+    },
+    "01002DA013484000": {
+        "30 FPS": "https://cdn.discordapp.com/attachments/495758692495523854/938238281785675816/30fps.zip",
+        "1440p/2K Resolution": "https://github.com/theboy181/switch-ptchtxt-mods/raw/main/The%20Legend%20of%20Zelda:%20Skyward%20Sword%20HD/%5B01002DA013484000%5D/1.0.0/2K.rar",
+        "2160p/4K resolution": "https://github.com/theboy181/switch-ptchtxt-mods/raw/main/The%20Legend%20of%20Zelda:%20Skyward%20Sword%20HD/%5B01002DA013484000%5D/1.0.0/4K.rar"
+    }
+}
