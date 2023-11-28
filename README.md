@@ -46,8 +46,13 @@ python3 -u theme_installer.py native
     - [switch-cheat](https://github.com/ibnux/switch-cheat) ([@ibnux](https://github.com/ibnux))
 - Mods
     - [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) ([@yuzu-emu](https://github.com/yuzu-emu))
+    - [switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods) ([@theboy181](https://github.com/theboy181))
 - Firmwares/keys
     - [NX_Firmware](https://github.com/THZoria/NX_Firmware) ([@THZoria](https://github.com/THZoria))
+- Métadonnées des jeux
+    - Nintendo Switch
+        - [titledb](https://github.com/blawar/titledb) ([@blawar](https://github.com/blawar))
+
 
 ## Thèmes
 
