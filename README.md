@@ -18,10 +18,15 @@ Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://
 
 ### Windows
 
-_Version compilée (recommandée) :_ 
-[Cliquez ici](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.zip) pour télécharger la dernière version.
+- Pack de fichiers (contient au moins un thème, et des extensions indispensables)
+    - Fichier compressé **zip** (recommandé) :
+[Télécharger](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.zip)
+    - Fichier compressé **rar** :
+[Télécharger](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.rar)
+- Exécutable :
+[Télécharger](https://github.com/Luckyluka17/MultiMod/releases/latest/download/multimod.exe)
 
-> **👉 Bon à savoir :** le fichier zip contient le thème _native_ par défaut. De plus, si vous souhaitez installer un thème, vous devez installer Python 3. 
+> **👉 Bon à savoir :** Si vous téléchargez le fichier .exe, vous ne pourrez pas le lancer en l'état. Il faudra installer au minimum un thème, pour cela, [suivez ces instructions](https://github.com/Luckyluka17/MultiMod#installer-un-th%C3%A8me).
 
 ### Linux
 
