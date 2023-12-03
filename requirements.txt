@@ -1,6 +1,7 @@
 beautifulsoup4==4.12.2
 colorama==0.4.6
-pywebview==4.3.3
+Pillow==10.0.1
+PyAutoGUI==0.9.54
+pypresence==4.3.0
 Requests==2.31.0
 wget==3.2
-Pillow==10.0.1
