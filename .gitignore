@@ -8,3 +8,4 @@ scraper.py
 settings.json
 build/
 ren.py
+cache/
