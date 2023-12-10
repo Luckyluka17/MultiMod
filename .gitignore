@@ -9,3 +9,4 @@ settings.json
 build/
 ren.py
 cache/
+*.pyc
