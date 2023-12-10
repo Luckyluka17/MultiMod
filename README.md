@@ -55,8 +55,7 @@ python3 -u theme_installer.py native
 - Firmwares/keys
     - [NX_Firmware](https://github.com/THZoria/NX_Firmware) ([@THZoria](https://github.com/THZoria))
 - Métadonnées des jeux
-    - Nintendo Switch
-        - [titledb](https://github.com/blawar/titledb) ([@blawar](https://github.com/blawar))
+    - [titledb](https://github.com/blawar/titledb) ([@blawar](https://github.com/blawar))
 
 
 ## Thèmes
