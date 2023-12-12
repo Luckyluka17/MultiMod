@@ -1,4 +1,4 @@
 {
     "themes": ["native"],
-    "icons": ["select_game.png", "settings.png", "close.png", "cheats_editor.png", "extensions.png", "extensions_menu.png", "firmwares.png", "download.png", "bug.png", "check_update.png", "discord.png", "documentation.png", "informations.png", "repo.png"]
+    "icons": ["select_game.png", "settings.png", "close.png", "cheats_editor.png", "extensions.png", "extensions_menu.png", "firmwares.png", "download.png", "bug.png", "check_update.png", "discord.png", "documentation.png", "informations.png", "repo.png", "login.png", "logout.png", "sync_now.png"]
 }
