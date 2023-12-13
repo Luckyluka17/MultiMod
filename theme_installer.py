@@ -15,11 +15,20 @@ theme = sys.argv[1]
 a_path = os.getcwd()
 
 
-with requests.get("https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/themes/list.json") as r:
-    informations = json.loads(r.text)
+# Récupérer la liste des thèmes et des icones avec l'api de Github
+with requests.get("https://api.github.com/repositories/701704734/contents/themes") as r:
+    themes_list = json.loads(r.text)
     r.close()
+for theme in themes_list:
+    themes_list[themes_list.index(theme)] = theme["name"]
+with requests.get("https://api.github.com/repositories/701704734/contents/themes/native/icons") as r:
+    icons_list = json.loads(r.text)
+    r.close()
+for icon in icons_list:
+    icons_list[icons_list.index(icon)] = icon["name"]
 
-if not theme in informations["themes"]:
+
+if not theme in themes_list:
     print(Fore.RED + "Le thème n'existe pas !")
     sys.exit()
 
@@ -39,7 +48,7 @@ if not os.path.exists(f"{a_path}/themes/{theme}"):
     os.mkdir(f"{a_path}/themes/{theme}/icons")
     os.mkdir(f"{a_path}/themes/{theme}/images")
 
-    for icon in informations["icons"]:
+    for icon in icons_list:
         wget.download(f"https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/themes/{theme}/icons/{icon}", f"{a_path}/themes/{theme}/icons/{icon}")
 
     wget.download(f"https://raw.githubusercontent.com/Luckyluka17/MultiMod/main/themes/{theme}/images/banner.png", f"{a_path}/themes/{theme}/images/banner.png")
