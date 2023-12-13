@@ -7,7 +7,7 @@ _Ce logiciel remplace [YuzuCheatsManager](https://github.com/Luckyluka17/YuzuChe
 
 MultiMod est un outil permettant d'installer et de gérer des mods et des cheats. Il peut également intaller les derniers firmwares à jour.
 
-Pour apprendre à utiliser le logiciel, vous pouvez consulter le [wiki](https://github.com/Luckyluka17/MultiMod/wiki).
+> **ATTENTION : Le logiciel n'est pas fait pour supporter trop de jeux installés sur Yuzu. Pour un bon fonctionnement, nous vous recommandons d'avoir au maximum 20 à 25 jeux, vous pouvez bien évidemment dépasser cette limite, mais cela risque de causer quelques problèmes.**
 
 <a href=""><img src="https://www.allkpop.com/upload/2021/01/content/262046/1611711962-discord-button.png" width="105px"></a>
 <a href="https://www.buymeacoffee.com/luckyluka17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="120px"></a>
