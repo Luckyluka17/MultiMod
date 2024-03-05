@@ -2,6 +2,8 @@
 
 **Langue :** [🇫🇷 Français](https://github.com/Luckyluka17/MultiMod/blob/main/README.md) - [🇬🇧 English](https://github.com/Luckyluka17/MultiMod/blob/main/README_EN.md)
 
+> [!WARNING]
+> ### L'émulateur Yuzu n'est plus disponible. Ce dépôt est désormais archivé. Vous pouvez toujours télécharger le logiciel et l'utiliser si vous possédez un build de Yuzu.
 
 _Ce logiciel remplace [YuzuCheatsManager](https://github.com/Luckyluka17/YuzuCheatsManager), qui n'est plus mis à jour._
 
