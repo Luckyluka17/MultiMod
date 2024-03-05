@@ -38,7 +38,11 @@ with requests.get("https://raw.githubusercontent.com/blawar/titledb/master/FR.fr
 db = {}
 
 for game in data.keys():
-    db[data[game]["name"].lower()] = data[game]["id"]
+    print(game)
+    try:
+        db[data[game]["name"].lower()] = data[game]["id"]
+    except:
+        pass
 
 for folder in os.listdir(path):
     try:
